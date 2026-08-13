@@ -9,4 +9,4 @@
 
 ## Reproducibility notes
 
-Evidence, scripts, tests, source hashes, and the pinned upstream tree are in the public [GitHub repository](https://github.com/MachineLearning-Nerd/icml26-repro-aU2sxdnRuL-distribution-valued-cpd). No Hugging Face model, dataset, Job, or Bucket was used; unavailable source-faithful data and R/funcharts dependencies are documented rather than replaced with proxies. The exact live contract is retained in `contract/live_claims.json`.
+Evidence, scripts, tests, source hashes, and the pinned upstream tree are in the public [GitHub repository](https://github.com/MachineLearning-Nerd/icml26-beyond-euclidean-summaries-distribution-valued-cpd). No Hugging Face model, dataset, Job, or Bucket was used; unavailable source-faithful data and R/funcharts dependencies are documented rather than replaced with proxies. The exact live contract is retained in `contract/live_claims.json`.

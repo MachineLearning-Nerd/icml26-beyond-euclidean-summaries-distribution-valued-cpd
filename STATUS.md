@@ -8,9 +8,9 @@
 - Paper: https://arxiv.org/abs/2602.07252
 - Official code pin: https://github.com/yyzeng43/IDD-icml@c5b1db4060e5081e5c487f91792dc18c17603fd0
 - Compute policy: CPU only; no GPU or paid Jobs used.
-- GitHub repository: https://github.com/MachineLearning-Nerd/icml26-repro-aU2sxdnRuL-distribution-valued-cpd
+- GitHub repository: https://github.com/MachineLearning-Nerd/icml26-beyond-euclidean-summaries-distribution-valued-cpd
 - Current phase: publication_ready_for_publish
-- Claim 1: inconclusive; retained toy mechanism audits, not a full source-scale run.
+- Claim 1: verified as a scoped paper-scale multivariate mechanism audit; the released R/funcharts performance path remains unavailable.
 - Claim 2: falsified as literally written; empirical-quantile correction omitted from the live wording.
 - Claim 3: falsified for literal source-table scope; maximum reported high-variance reduction is 72.5%, not 95%.
 - Claim 4: falsified for literal source metric scope; Hotelling precision, not F1, is below 0.4.

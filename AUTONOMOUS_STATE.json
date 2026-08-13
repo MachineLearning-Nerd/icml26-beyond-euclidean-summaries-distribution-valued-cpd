@@ -118,7 +118,7 @@
     "artifact_bucket": "DineshAI/repro-aU2sxdnRuL-distribution-valued-cpd-artifacts",
     "publication_record_commit": "7157e77e479e4455abb009e6014851e1db510310"
   },
-  "github_repository": "https://github.com/MachineLearning-Nerd/icml26-repro-aU2sxdnRuL-distribution-valued-cpd",
+  "github_repository": "https://github.com/MachineLearning-Nerd/icml26-beyond-euclidean-summaries-distribution-valued-cpd",
   "setup_content_commit": "70f84e135f0d0921dcecd15cbbb3a0f057209679",
   "claim_3_outcome": {
     "verdict": "falsified",
