@@ -12,6 +12,18 @@ Yujing (Zipan) Huang, and Xiaoyu Chen.
 - Reproduction command: `uv sync --frozen && uv run --frozen python scripts/run_campaign.py`
 - Published logbook: [DineshAI/repro-aU2sxdnRuL-distribution-valued-cpd](https://huggingface.co/spaces/DineshAI/repro-aU2sxdnRuL-distribution-valued-cpd)
 
+## Audit record
+
+Overall status:
+`MIXED_C1_SCOPED_VERIFIED_C2_LITERAL_FALSIFIED_C3_SOURCE_TABLE_FALSIFIED_C4_LITERAL_SOURCE_SCOPE_FALSIFIED_C5_BLOCKED_C6_SCOPED_VERIFIED`.
+
+The claim-by-claim evidence ledger is in [`CLAIM_EVIDENCE.md`](CLAIM_EVIDENCE.md),
+the source and version record is in [`SOURCE_AUDIT.md`](SOURCE_AUDIT.md), and
+the final public-state check is [`verify_final.py`](verify_final.py). The prior
+live judge result was `7/12`; it is retained as historical context only.
+`current_score_claim=false`, `publication_allowed=false`, and
+`official_author_endorsement=false`.
+
 ## What the paper does
 
 The paper proposes an intrinsic online change-point detector for streams of

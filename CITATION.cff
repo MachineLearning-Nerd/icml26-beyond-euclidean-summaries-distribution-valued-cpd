@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this reproduction or its audit artifacts, please cite this repository and the original paper."
+type: software
+title: "Independent reproduction of Beyond Euclidean Summaries"
+version: "1.0.0"
+date-released: 2026-08-19
+authors:
+  - name: MachineLearning-Nerd
+repository-code: "https://github.com/MachineLearning-Nerd/icml26-beyond-euclidean-summaries-distribution-valued-cpd"
+url: "https://github.com/MachineLearning-Nerd/icml26-beyond-euclidean-summaries-distribution-valued-cpd"
+abstract: "Scoped reproduction and claim audit of Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data."
+keywords:
+  - distribution-valued data
+  - change-point detection
+  - Wasserstein geometry
+  - reproduction
+  - claim audit
+preferred-citation:
+  type: article
+  title: "Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data"
+  authors:
+    - family-names: Zeng
+      given-names: Yingyan
+    - family-names: Huang
+      given-names: Yujing (Zipan)
+    - family-names: Chen
+      given-names: Xiaoyu
+  year: 2026
+  url: "https://arxiv.org/abs/2602.07252"

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1",
+  "paper": "Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data",
+  "paper_source": "arXiv:2602.07252",
+  "overall_status": "MIXED_C1_SCOPED_VERIFIED_C2_LITERAL_FALSIFIED_C3_SOURCE_TABLE_FALSIFIED_C4_LITERAL_SOURCE_SCOPE_FALSIFIED_C5_BLOCKED_C6_SCOPED_VERIFIED",
+  "claims": [
+    {
+      "id": "C1",
+      "status": "VERIFIED_SCOPED",
+      "evidence": "outputs/claim1_attempt2_empirical.json; outputs/claim1_attempt3_quantile_audit.md",
+      "claim_page": "logbook/claim1.md"
+    },
+    {
+      "id": "C2",
+      "status": "FALSIFIED_LITERAL",
+      "evidence": "outputs/claim2_attempt1_audit.md; outputs/claim2_attempt1_empirical_arl.json",
+      "claim_page": "logbook/claim2.md"
+    },
+    {
+      "id": "C3",
+      "status": "FALSIFIED_SOURCE_TABLE",
+      "evidence": "outputs/claim3_attempt1_audit.md; outputs/claim3_attempt1/result.json",
+      "claim_page": "logbook/claim3.md"
+    },
+    {
+      "id": "C4",
+      "status": "FALSIFIED_LITERAL_SOURCE_SCOPE",
+      "evidence": "outputs/claim4_attempt1_audit.md; outputs/claim4_attempt2_audit.md",
+      "claim_page": "logbook/claim4.md"
+    },
+    {
+      "id": "C5",
+      "status": "BLOCKED_INCONCLUSIVE",
+      "evidence": "outputs/claim5_attempt2_audit.md; outputs/claim5_attempt3_audit.md",
+      "claim_page": "logbook/claim5.md"
+    },
+    {
+      "id": "C6",
+      "status": "VERIFIED_SCOPED",
+      "evidence": "outputs/claim6_attempt1_audit.md; outputs/claim6_attempt1/result.json",
+      "claim_page": "logbook/claim6.md"
+    }
+  ]
+}

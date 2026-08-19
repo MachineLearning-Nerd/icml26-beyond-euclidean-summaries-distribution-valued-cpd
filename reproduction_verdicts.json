@@ -1,0 +1,23 @@
+{
+  "schema_version": "1",
+  "overall_status": "MIXED_C1_SCOPED_VERIFIED_C2_LITERAL_FALSIFIED_C3_SOURCE_TABLE_FALSIFIED_C4_LITERAL_SOURCE_SCOPE_FALSIFIED_C5_BLOCKED_C6_SCOPED_VERIFIED",
+  "source_scope": "arXiv:2602.07252",
+  "cumulative_evidence": "MIXED_SCOPED_AUDIT",
+  "claims": {
+    "C1": "VERIFIED_SCOPED",
+    "C2": "FALSIFIED_LITERAL",
+    "C3": "FALSIFIED_SOURCE_TABLE",
+    "C4": "FALSIFIED_LITERAL_SOURCE_SCOPE",
+    "C5": "BLOCKED_INCONCLUSIVE",
+    "C6": "VERIFIED_SCOPED"
+  },
+  "historical_score": {
+    "points": 7,
+    "total": 12,
+    "current_score_claim": false,
+    "forecast": null
+  },
+  "publication_allowed": false,
+  "official_author_endorsement": false,
+  "boundary": "Claims 1 and 6 are scoped audits; Claims 2-4 are falsified only for their literal/source wording; Claim 5 remains blocked by unavailable source-faithful artifacts."
+}
